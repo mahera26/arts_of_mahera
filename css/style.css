@@ -1,0 +1,250 @@
+body{
+  background:#f5f6fd;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    padding-top:80px;
+}
+
+.navbar-brand{
+    font-size:28px;
+}
+
+.card{
+    transition:0.3s;
+}
+
+.card:hover{
+    transform:translateY(-8px);
+}
+
+footer{
+    margin-top:80px;
+}
+
+/* Hero Section */
+
+.hero-section{
+
+    background:#fff8f4;
+
+    padding:80px 0;
+
+}
+
+.hero-section h1{
+
+    color:#333;
+
+}
+
+.hero-section p{
+
+    color:#555;
+
+    line-height:1.8;
+
+}
+
+.hero-section img{
+
+    border-radius:20px;
+
+}
+
+.btn{
+
+    border-radius:30px;
+
+}
+
+/* Featured Products */
+
+.card{
+    border:none;
+    border-radius:15px;
+    overflow:hidden;
+    transition:0.4s;
+}
+
+.card:hover{
+    transform:translateY(-10px);
+    box-shadow:0px 10px 20px rgba(0,0,0,0.15);
+}
+
+.card img{
+    height:280px;
+    object-fit:cover;
+}
+
+.card-title{
+    font-weight:bold;
+}
+
+.btn-danger{
+    border-radius:30px;
+    padding:10px 20px;
+}
+
+/* Categories */
+
+.bg-light{
+    background:#fff4f7 !important;
+}
+
+.card h1{
+    font-size:55px;
+}
+
+.card h5{
+    margin-top:15px;
+    font-weight:600;
+}
+
+/* Why Choose Us */
+
+.feature-box{
+
+    background:white;
+    border-radius:15px;
+    height:100%;
+    transition:0.3s;
+
+}
+
+
+.feature-box:hover{
+
+    transform:translateY(-8px);
+    box-shadow:0px 8px 20px rgba(0,0,0,0.1);
+
+}
+
+
+.feature-box h1{
+
+    font-size:50px;
+
+}
+
+
+.feature-box h5{
+
+    font-weight:bold;
+    margin-top:15px;
+
+}
+
+
+.feature-box p{
+
+    color:#666;
+
+}
+
+/* Customer Reviews */
+
+.review-card{
+
+    background:white;
+    border-radius:15px;
+    height:100%;
+    transition:0.3s;
+
+}
+
+
+.review-card:hover{
+
+    transform:translateY(-8px);
+
+}
+
+
+.review-card p{
+
+    color:#555;
+    font-style:italic;
+
+}
+
+
+.review-card h6{
+
+    font-weight:bold;
+    margin-top:20px;
+
+}
+
+/* Custom Order Section */
+
+.custom-order{
+
+    background:#d63384;
+    color:white;
+
+}
+
+
+.custom-order h2{
+
+    font-size:36px;
+
+}
+
+
+.custom-order p{
+
+    font-size:18px;
+
+}
+
+
+.custom-order .btn{
+
+    border-radius:30px;
+    padding:12px 35px;
+    font-weight:bold;
+
+}
+
+/* Footer */
+
+.footer-section{
+
+    background:#212529;
+    color:white;
+    padding:50px 0 20px;
+
+}
+
+
+.footer-section h4{
+
+    color:#ffb6c1;
+    margin-bottom:20px;
+
+}
+
+
+.footer-section a{
+
+    color:white;
+    text-decoration:none;
+
+}
+
+
+.footer-section a:hover{
+
+    color:#ff69b4;
+
+}
+
+
+.footer-section p{
+
+    color:#ddd;
+
+}
